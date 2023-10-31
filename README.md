@@ -1,3 +1,7 @@
+# This repository is an attempt to copy clang-contracts to new clang and realize contract programming in C++20
+clang-contracts
+https://github.com/arcosuc3m/clang-contracts
+
 # The LLVM Compiler Infrastructure
 
 Welcome to the LLVM project!
